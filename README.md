@@ -53,7 +53,7 @@ During the course, I have used the following technologies:
 
 • Git as a version control tool.
 
-<p align="center"><a href="https://vuejs.org/" target="_blank"><img src="https://vuejs.org/images/logo.png" width="400" alt="Vue.js Logo"></a></p>
+<p align="center"><a href="https://vuejs.org/" target="_blank"><img src="https://vuejs.org/images/logo.png" width="200" alt="Vue.js Logo"></a></p>
 
 ## ✨ Goals
 
