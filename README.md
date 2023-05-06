@@ -46,8 +46,11 @@ At the end of the course, I have mastered the basics of the framework and I am r
 During the course, I have used the following technologies:
 
 • Vue.js as a JavaScript framework.
+
 • HTML, CSS, and Bootstrap for the user interface and information presentation.
+
 • Visual Studio Code as an IDE for code development.
+
 • Git as a version control tool.
 
 <p align="center"><a href="https://vuejs.org/" target="_blank"><img src="https://vuejs.org/images/logo.png" width="400" alt="Vue.js Logo"></a></p>
@@ -57,9 +60,13 @@ During the course, I have used the following technologies:
 The objectives of the Vue 3 Course from scratch are:
 
 • Learn to use Vue.js from scratch in a real project.
+
 • Understand what Vue is, how it works, and what its new features are.
+
 • Master the basics of the framework and be prepared to continue learning.
+
 • Use development and version control tools.
+
 • Improve frontend web development skills.
 
 ## 🌎 Contact
